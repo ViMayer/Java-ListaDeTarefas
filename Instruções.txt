@@ -1,6 +1,0 @@
-Não mudar nome da pasta
-O caminho deve ser sempre para a pasta do arquivo, e não para a pasta "src" encontrada nela
-** Compilar
-// javac src/*.java
-** Iniciar 
-// java -cp src ListaDeTarefas
