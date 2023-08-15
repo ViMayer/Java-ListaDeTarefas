@@ -9,9 +9,9 @@ Executa uma lista de tarefas usando java no seu console.
 ## Instruções de Uso
 
 1. Clone este repositório para o seu computador:
-  ``` shell
+    ``` shell
      git clone https://github.com/ViMayer/Java-ListaDeTarefas.git
-  ```
+    ```
 2. Selecione o caminho correto da pasta 
     ``` shell
      cd exemplo-de-comando/local-da-pasta/Java-ListaDeTarefas
