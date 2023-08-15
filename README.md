@@ -14,7 +14,7 @@ Executa uma lista de tarefas usando java no seu console.
   ```
 2. Selecione o caminho correto da pasta 
     ``` shell
-     cd exemplo-de-comando/local-da-pasta/projeto-lista-tarefas
+     cd exemplo-de-comando/local-da-pasta/Java-ListaDeTarefas
     ```
 3. Utilizar Javac para compilar o código
     ``` shell
@@ -35,3 +35,11 @@ Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
 Aviso de direitos autorais acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes substanciais do Software.
 
 O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA E NÃO VIOLAÇÃO. EM NENHUM CASO, OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRAS RESPONSABILIDADES, SEJA EM UMA AÇÃO DE CONTRATO, TORT OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
+
+## Desenvolvido com o desejo de aprender 📚🧠
+
+A jornada de criação deste projeto envolveu a exploração de novas tecnologias, experimentação com abordagens diferentes e a aceitação de desafios como oportunidades de aprendizado.
+
+- ☕ **Linguagem**: Linguagem de Programação Java
+- 🖥️ **Editor**: Visual Studio Code
+- 📦 **Controle de Versão**: Git e GitHub
